@@ -1,0 +1,11 @@
+.todo-form {
+  display: flex;
+  justify-content: space-between;
+
+  & .todo-form-input {
+    padding: 9px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #a57ca5;
+  }
+}
